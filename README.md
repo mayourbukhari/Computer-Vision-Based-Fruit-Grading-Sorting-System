@@ -1,36 +1,37 @@
 # Computer Vision Based Fruit Grading & Sorting System
 
-This is a Industry grade setup that can be easily replicated. This repository not only includes the code for the system but also the trained model, the actual physical design and specfications in which we had implemented it, also the KiCAD design files of PCB, Xilinx FPGA architecture files and everything that can help you replicate it or design your own.
+![System Demo](https://media.giphy.com/media/sJ2xh3AWaeW39bqCoH/giphy.gif)
 
 
+This is an industry-grade setup that can be easily replicated. The repository includes the code, trained model, physical design, specifications, KiCAD design files of PCB, Xilinx FPGA architecture files, and everything needed to replicate or design your own system.
 
 ## Tech Stack
 
-**Hardware:** JetSon Nano, Arduino Mega, Arduino Nano, PynQ Z2 FPGA, Servo Motors, Stepper Motors, Linear DC Actuator, Ultrasonic Sensor, RPi Camera, Optical Switches
+**Hardware:** Jetson Nano, Arduino Mega, Arduino Nano, PynQ Z2 FPGA, Servo Motors, Stepper Motors, Linear DC Actuator, Ultrasonic Sensor, RPi Camera, Optical Switches
 
 **Software:** Python, Embedded C, Nextion HMI, Xilinx Vivado, Linux
 
-
 ## Documentation
-This file includes the whole blueprint of the the project, with details on how to put everything together. This document was submitted by us as the Project Report for the Degree of Electronics and Communication Engineering in year 2023
-[Documentation](https://github.com/r-yd/Computer-Vision-Based-Fruit-Grading-Sorting-System/blob/main/report.pdf)
 
+This repository contains the entire blueprint of the project, including details on assembly. The document served as the Project Report for the Degree of Electronics and Communication Engineering in the year 2023.
+
+[![Documentation](https://img.shields.io/badge/Documentation-Project_Report-blue.svg)](https://github.com/r-yd/Computer-Vision-Based-Fruit-Grading-Sorting-System/blob/main/report.pdf)
 
 ## Final Design View
 
-Insert gif or link to demo
-
-
+![Final Design](https://media.giphy.com/media/sJ2xh3AWaeW39bqCoH/giphy.gif)
 ## Authors
 
 - [@r-yd](https://www.github.com/r-yd)
+- [@mayourbukhari](https://www.github.com/mayourbukhari)
+- [@Burhan80](https://www.github.com/Burhan80)
 - [@r-yd](https://www.github.com/r-yd)
-- [@r-yd](https://www.github.com/r-yd)
-- [@r-yd](https://www.github.com/r-yd)
+
 ## Support & Feedback
 
-For Support or Feedback, email: <br>
-- General Query or Embedded Design/FPGA Related:  rydhacker@gmail.com <br>
-- Vision Model or Python Code Related:  smayour82@gmail.com <br>
-- PCB Design or Electronics Related:  rizviim786@gmail.com <br>
-- Hardware Design or Simulations/CAD Realted:  burhanshowkat80@gmail.com <br>
+For Support or Feedback, email:
+
+- General Query or Embedded Design/FPGA Related: [![rydhacker@gmail.com](https://img.shields.io/badge/Email-rydhacker%40gmail.com-red.svg)](mailto:rydhacker@gmail.com)
+- Vision Model or Python Code Related: [![smayour82@gmail.com](https://img.shields.io/badge/Email-smayour82%40gmail.com-red.svg)](mailto:smayour82@gmail.com)
+- PCB Design or Electronics Related: [![rizviim786@gmail.com](https://img.shields.io/badge/Email-rizviim786%40gmail.com-red.svg)](mailto:rizviim786@gmail.com)
+- Hardware Design or Simulations/CAD Related: [![burhanshowkat80@gmail.com](https://img.shields.io/badge/Email-burhanshowkat80%40gmail.com-red.svg)](mailto:burhanshowkat80@gmail.com)
