@@ -1,2 +1,2 @@
 # Computer-Vision-Based-Fruit-Grading-Sorting-System
-This is a complete setup for industrial grade machine. This repository not only includes Vision Model and code but also the hardware design and implementation guidelines, Xilinx FPGA architecture as well as KiCAD design for PCB's used. This was the part of our final year engineering project which won the best scientific project award for year 2023.
+This is a Industry grade setup that can be easily replicated. This repository not only includes the code for the system but also the trained model, the actual physical design and specfications in which we had implemented it, also the KiCAD design files of PCB, Xilinx FPGA architecture files and everything that can help you replicate it or design your own.
